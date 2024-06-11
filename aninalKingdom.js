@@ -110,7 +110,7 @@ class MigrationPredictor {
 
 
 
-class predictMovement {
+class predictMovement() {
 
     const { weather, River, predators } = this.environment;
 
